@@ -73,7 +73,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](image.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/71aa058e-d284-4596-8e64-7a0dcf4bc735" />
+
 
 
 ## RESULT:
